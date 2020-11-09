@@ -21,6 +21,7 @@ Para saber mais sobre este desafio, acesse: [30 dias de CSS](https://github.com/
 ---
 
 * [Dia 01 | Ícones de Mídias Sociais em Camadas](#id01)
+* [Dia 02 | Loader Animado](#id02)
 
 ---
 
@@ -30,6 +31,8 @@ Para saber mais sobre este desafio, acesse: [30 dias de CSS](https://github.com/
 
 [Meu Código](https://github.com/itchecosta/30diasDeCSS/tree/master/dia01)
 
+[Post Linkedin](https://www.linkedin.com/posts/itchecosta_30diasdecss-css-html-activity-6730627557345038336-nv7w)
+
 ##### O que estudar para criar este efeito: 
 
 * Como criar camadas usando a tag `<span>`.
@@ -38,3 +41,18 @@ Para saber mais sobre este desafio, acesse: [30 dias de CSS](https://github.com/
 * Transições CSS.
 * Opacidade / transparência do CSS
 * Utilizar hover.
+
+##  Desafio dia 02 - Loader Animado <a name="id02"></a>
+
+![Desafio 02 _ Loader Animado](https://user-images.githubusercontent.com/25455073/98599235-6e04c580-22ba-11eb-9f58-89873ccd30ab.gif)
+
+[Meu Código](https://github.com/itchecosta/30diasDeCSS/tree/master/dia02)
+
+[Post Linkedin](https://www.linkedin.com/posts/itchecosta_css-html-frontend-activity-6731684219988295680--axj)
+
+
+
+##### O que estudar para criar este efeito:
+
+* Mover elementos utilizando keyframes.
+* Utilizar a propriedade animation do CSS.
