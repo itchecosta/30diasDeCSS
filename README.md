@@ -22,6 +22,7 @@ Para saber mais sobre este desafio, acesse: [30 dias de CSS](https://github.com/
 
 * [Dia 01 | Ícones de Mídias Sociais em Camadas](#id01)
 * [Dia 02 | Loader Animado](#id02)
+* [Dia 03 | Checkbox de modo noturno](#id03)
 
 ---
 
@@ -56,3 +57,19 @@ Para saber mais sobre este desafio, acesse: [30 dias de CSS](https://github.com/
 
 * Mover elementos utilizando keyframes.
 * Utilizar a propriedade animation do CSS.
+
+##  Desafio dia 03 - Transição entre Divs - Mudando a cor de texto <a name="id02"></a>
+
+![Desafio 02 _ Transição entre Divs - Mudando a cor de texto](![dia03-min](https://user-images.githubusercontent.com/25455073/98735823-c1dae180-2382-11eb-942b-47c17f73ba5e.gif)
+)
+
+[Meu Código](https://github.com/itchecosta/30diasDeCSS/tree/master/dia03)
+
+[Post Linkedin](https://www.linkedin.com/posts/itchecosta_css-html-frontend-activity-6732039739765010432-hdMF)
+
+
+
+##### O que estudar para criar este efeito:
+
+* CSS Overflow
+* Use animations
