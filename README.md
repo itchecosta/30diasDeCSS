@@ -23,6 +23,7 @@ Para saber mais sobre este desafio, acesse: [30 dias de CSS](https://github.com/
 * [Dia 01 | Ícones de Mídias Sociais em Camadas](#id01)
 * [Dia 02 | Loader Animado](#id02)
 * [Dia 03 | Checkbox de modo noturno](#id03)
+* [Dia 03 (Alternativo) | Carousel Infinito de Texto - Estilo "Últimas Notícias"](#id03_alt)
 
 ---
 
