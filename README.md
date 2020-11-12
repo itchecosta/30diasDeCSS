@@ -58,7 +58,7 @@ Para saber mais sobre este desafio, acesse: [30 dias de CSS](https://github.com/
 * Mover elementos utilizando keyframes.
 * Utilizar a propriedade animation do CSS.
 
-##  Desafio dia 03 - Transição entre Divs - Mudando a cor de texto <a name="id02"></a>
+##  Desafio dia 03 - Transição entre Divs - Mudando a cor de texto <a name="id03"></a>
 
 ![Desafio 03 _ Transição entre Divs - Mudando a cor de texto](https://user-images.githubusercontent.com/25455073/98735823-c1dae180-2382-11eb-942b-47c17f73ba5e.gif)
 
@@ -72,3 +72,18 @@ Para saber mais sobre este desafio, acesse: [30 dias de CSS](https://github.com/
 
 * CSS Overflow
 * Use animations
+
+##  Desafio dia 03 (Alternativo) - Carousel Infinito de Texto - Estilo "Últimas Notícias" <a name="id03_alt"></a>
+
+![Desafio 03 (Alternativo) _ Carousel Infinito de Texto - Estilo Últimas Notícias](https://user-images.githubusercontent.com/25455073/98879288-f1ade600-2463-11eb-8310-3856b8cfe61f.gif)
+
+[Meu Código](https://github.com/itchecosta/30diasDeCSS/tree/master/dia03_alt)
+
+[Post Linkedin](https://www.linkedin.com/posts/itchecosta_css-html-frontend-activity-6732449681592451072-AuYP)
+
+##### O que estudar para criar este efeito:
+
+* CSS Overflow
+* Use animations
+* Use keyframes
+* Width com 'calc'
