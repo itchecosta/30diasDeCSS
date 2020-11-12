@@ -1,0 +1,78 @@
+body 
+{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background: #121011;
+}
+  
+@keyframes scroll {
+    0% {
+        -webkit-transform: translateX(0);
+                transform: translateX(0);
+    }
+    100% {
+        -webkit-transform: translateX(calc(-450px * 5));
+                transform: translateX(calc(-450px * 5));
+    }
+}
+
+.notas 
+{
+    background: #383436;
+    box-shadow: 0 10px 20px -5px rgba(0,0,0,.125);
+    height: 50px;
+    margin: auto;
+    overflow: hidden;
+    position: relative;
+    width: 960px;
+}
+
+.notas::before
+{
+     height: 50px;
+    position: absolute;
+    width: auto;
+    z-index: 2;
+    background:  rgb(255, 102, 0) 70%;
+    line-height: 50px;
+    content: "Últimos Desafios:";
+    padding: 0 10px;
+    color: #FFF;
+    left: 0;
+    top: 0;
+}
+
+.notas .notas-track 
+{
+    -webkit-animation: scroll 40s linear infinite;
+    animation: scroll 40s linear infinite;
+    display: -webkit-box;
+    display: flex;
+    width: calc(450px * 10);
+}
+
+.notas .nota 
+{
+    height: 50px;
+    width: 450px;
+    padding-left: 10px;
+    color: #FFF;
+    text-transform: uppercase;
+    line-height: 50px;
+}
+
+.notas .nota i
+{
+    padding-right: 10px;
+    text-align: left;
+}
+
+.notas .nota:nth-child(1)
+{
+    padding-left: 0;
+}
