@@ -24,6 +24,7 @@ Para saber mais sobre este desafio, acesse: [30 dias de CSS](https://github.com/
 * [Dia 02 | Loader Animado](#id02)
 * [Dia 03 | Checkbox de modo noturno](#id03)
 * [Dia 03 (Alternativo) | Carousel Infinito de Texto - Estilo "Últimas Notícias"](#id03_alt)
+* [Dia 04 | Borda com Efeito Animado](#id04)
 
 ---
 
@@ -88,3 +89,20 @@ Para saber mais sobre este desafio, acesse: [30 dias de CSS](https://github.com/
 * Use animations
 * Use keyframes
 * Width com 'calc'
+
+##  Desafio dia 04 - Borda com Efeito Animado <a name="id04"></a>
+
+![Dia 4 _ Borda com Efeito Animado](https://user-images.githubusercontent.com/25455073/99026912-cd790480-254a-11eb-8312-7431c4a9ddfc.gif)
+
+[Meu Código](https://github.com/itchecosta/30diasDeCSS/tree/master/dia04)
+
+[Post Linkedin](https://www.linkedin.com/posts/itchecosta_css-html-frontend-activity-6732865125805625344-Sugw)
+
+##### O que estudar para criar este efeito:
+
+* :hover
+* ::before
+* ::after
+* Transições
+* transformação
+* Use keyframes
